@@ -1,6 +1,6 @@
 .htaccess
-uploads
+uploads/*
 config.php
-assets/img_backup
+assets/img_backup/*
 assets/fonts.zip
 models/core/stripe_info.php
