@@ -1,0 +1,45 @@
+<div class="box w100">
+	<h2>{PAGE_TITLE}</h2>
+	<h4>Manage automated system emails</h4>
+	
+	<div class="toolbar clearfix">
+		<div class="pull-left">
+			<!--
+			<button class="btn btn-ico btn-delete"><span class="ico ico-delete"></span> Remove selected </button>
+			<button class="btn btn-ico btn-create"><span class="ico ico-add"></span> Add new </button>
+			-->
+		</div>
+		<div class="pull-right">
+			<input type="text" name="filter-term" placeholder="Search or filter list items" value="{FILTER}" />
+		</div>
+	</div>
+	
+	<div class="table-holder">
+		<table>
+			<thead>
+				<tr>
+					<th></th>
+					<th><span class="ico ico-unfold-more" data-sort="email_id" data-order="{ORDER}"></span>ID</th>
+					<th><span class="ico ico-unfold-more" data-sort="code" data-order="{ORDER}"></span>Code</th>
+					<th><span class="ico ico-unfold-more" data-sort="subject" data-order="{ORDER}"></span>Subject line</th>
+				</tr>
+			</thead>
+			<tbody>
+				<!-- BEGIN DYNAMIC BLOCK: item -->
+				<tr>
+					<td></td>
+					<td>{ID}</td>
+					<td><a href="#" data-toggle="item" data-id="{ID}">{CODE}</a></td>
+					<td>{SUBJECT}</td>
+				</tr>
+				<!-- END DYNAMIC BLOCK: item -->
+				{EMPTY}
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="4">{PAGINATION}</td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+</div>

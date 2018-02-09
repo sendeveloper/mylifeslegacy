@@ -1,0 +1,50 @@
+<div class="box w100">
+	<h2>{PAGE_TITLE}</h2>
+	<h4>{PAGE_HINT}</h4>
+	
+	<div class="toolbar clearfix">
+		<button class="btn btn-ico btn-back-to-list"><span class="ico ico-arrow-left2"></span></button>
+	</div>
+	
+	<form class="must-process" onsubmit="return false">
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Page URL (link)</label></div>
+			<div class="span8">
+				<div class="input-prepend">
+					<span class="add-on">{SITE_URL}</span>
+					<input type="text" data-required="true" name="url" placeholder="Link" value="{URL}" />
+				</div>
+			</div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Page title</label></div>
+			<div class="span8"><input type="text" data-required="true" class="span12" name="name" placeholder="Title" value="{NAME}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Meta title</label></div>
+			<div class="span8"><input type="text" class="span12" name="meta_title" placeholder="Meta title" value="{META_TITLE}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Meta keywords</label></div>
+			<div class="span8"><input type="text" class="span12" name="meta_keywords" placeholder="Meta keywords" value="{META_KEYWORDS}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Meta description</label></div>
+			<div class="span8"><textarea class="span12" name="meta_description" rows="3" placeholder="Meta description">{META_DESCRIPTION}</textarea></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span12"><label>Web page content</label></div>
+		</div>
+		<div class="row-fluid row-list">
+			<div class="span12"><textarea class="editor" name="content" placeholder="Web page content">{CONTENT}</textarea></div>
+		</div>
+
+		<p class="save"><button class="btn btn-success btn-submit"><span class="ico ico-check"></span>Save</button></p>
+	</form>
+</div>

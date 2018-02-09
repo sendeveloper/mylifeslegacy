@@ -1,0 +1,33 @@
+<div class="box w100">
+	<h2>{PAGE_TITLE}</h2>
+	<h4>{PAGE_HINT}</h4>
+	
+	<div class="toolbar clearfix">
+		<button class="btn btn-ico btn-back-to-list"><span class="ico ico-arrow-left2"></span></button>
+	</div>
+	
+	<form class="must-process" onsubmit="return false">
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Name</label></div>
+			<div class="span8"><input type="text" data-required="true" class="span12" name="name" placeholder="Name" value="{NAME}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Sort order</label></div>
+			<div class="span8"><input type="text" data-required="true" class="span12" name="sort_order" placeholder="Sort order" value="{SORT_ORDER}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Default category</label></div>
+			<div class="span8"><input type="checkbox" name="dc" value="1" {DC} /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Password protected</label></div>
+			<div class="span8"><input type="checkbox" name="password" value="1" {PASSWORD} /></div>
+		</div>
+
+		<p class="save"><button class="btn btn-success btn-submit"><span class="ico ico-check"></span>Save</button></p>
+	</form>
+</div>

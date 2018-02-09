@@ -1,0 +1,72 @@
+[29-Dec-2016 14:59:11 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/admin/models/members.php on line 111
+[29-Dec-2016 15:00:37 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/admin/models/members.php on line 111
+[01-Mar-2017 21:41:16 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/admin/models/members.php on line 111
+[31-Aug-2017 20:51:11 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/mail.php on line 33
+[31-Aug-2017 20:51:11 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/mail.php on line 33
+[31-Aug-2017 20:51:11 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/mail.php on line 36
+[31-Aug-2017 21:10:30 UTC] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 21:10:30 UTC] PHP Warning:  fopen(https://createmylifeslegacy.com/uploads/pdf/certificate_1504213829720.pdf): failed to open stream: no suitable wrapper could be found in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 21:10:30 UTC] PHP Warning:  filesize(): stat failed for https://createmylifeslegacy.com/uploads/pdf/certificate_1504213829720.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:10:30 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:10:30 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:16:05 UTC] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 21:16:05 UTC] PHP Warning:  fopen(https://createmylifeslegacy.com/uploads/pdf/certificate_1504214164823.pdf): failed to open stream: no suitable wrapper could be found in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 21:16:05 UTC] PHP Warning:  filesize(): stat failed for https://createmylifeslegacy.com/uploads/pdf/certificate_1504214164823.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:16:05 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:16:05 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:17:20 UTC] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 21:17:20 UTC] PHP Warning:  fopen(https://createmylifeslegacy.com/uploads/pdf/certificate_1504214240226.pdf): failed to open stream: no suitable wrapper could be found in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 21:17:20 UTC] PHP Warning:  filesize(): stat failed for https://createmylifeslegacy.com/uploads/pdf/certificate_1504214240226.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:17:20 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:17:20 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:24:59 UTC] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:24:59 UTC] PHP Warning:  fopen(https://createmylifeslegacy.com/uploads/pdf/certificate_1504214698947.pdf): failed to open stream: no suitable wrapper could be found in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:24:59 UTC] PHP Warning:  filesize(): stat failed for https://createmylifeslegacy.com/uploads/pdf/certificate_1504214698947.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:24:59 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:24:59 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 56
+[31-Aug-2017 21:24:59 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/mylifelegacy/public_html/models/core/mail.php on line 80
+[31-Aug-2017 21:28:01 UTC] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:28:01 UTC] PHP Warning:  fopen(https://createmylifeslegacy.com/uploads/pdf/certificate_1504214881319.pdf): failed to open stream: no suitable wrapper could be found in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:28:01 UTC] PHP Warning:  filesize(): stat failed for https://createmylifeslegacy.com/uploads/pdf/certificate_1504214881319.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:28:01 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:28:01 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 56
+[31-Aug-2017 21:28:01 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/mylifelegacy/public_html/models/core/mail.php on line 80
+[31-Aug-2017 21:30:17 UTC] PHP Warning:  fopen(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:30:17 UTC] PHP Warning:  fopen(https://createmylifeslegacy.com/uploads/pdf/certificate_1504215017233.pdf): failed to open stream: no suitable wrapper could be found in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:30:17 UTC] PHP Warning:  filesize(): stat failed for https://createmylifeslegacy.com/uploads/pdf/certificate_1504215017233.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:30:17 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:30:17 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 56
+[31-Aug-2017 21:30:17 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/mylifelegacy/public_html/models/core/mail.php on line 80
+[31-Aug-2017 21:36:36 UTC] PHP Warning:  fopen(certificates/certificate_1504215396215.pdf): failed to open stream: No such file or directory in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:36:36 UTC] PHP Warning:  filesize(): stat failed for certificates/certificate_1504215396215.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:36:36 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 21:36:36 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 56
+[31-Aug-2017 21:36:36 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/mylifelegacy/public_html/models/core/mail.php on line 80
+[31-Aug-2017 21:38:48 UTC] PHP Warning:  fopen(certificates/certificate_1504215517826.pdf): failed to open stream: No such file or directory in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 21:38:48 UTC] PHP Warning:  filesize(): stat failed for certificates/certificate_1504215517826.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:38:48 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 21:38:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 22:09:15 UTC] PHP Warning:  fopen(certificates/certificate_1504217354983.pdf): failed to open stream: No such file or directory in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 22:09:15 UTC] PHP Warning:  filesize(): stat failed for certificates/certificate_1504217354983.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 22:09:15 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 22:09:15 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 22:12:13 UTC] PHP Warning:  fopen(certificates/certificate_1504217533063.pdf): failed to open stream: No such file or directory in /home/mylifelegacy/public_html/models/core/mail.php on line 52
+[31-Aug-2017 22:12:13 UTC] PHP Warning:  filesize(): stat failed for certificates/certificate_1504217533063.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 22:12:13 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 22:12:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 22:13:21 UTC] PHP Warning:  fopen(certificates/certificate_1504217601150.pdf): failed to open stream: No such file or directory in /home/mylifelegacy/public_html/models/core/mail.php on line 52
+[31-Aug-2017 22:13:21 UTC] PHP Warning:  filesize(): stat failed for certificates/certificate_1504217601150.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 22:13:21 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 22:13:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 54
+[31-Aug-2017 22:13:56 UTC] PHP Warning:  fopen(certificates/certificate_1504217635965.pdf): failed to open stream: No such file or directory in /home/mylifelegacy/public_html/models/core/mail.php on line 52
+[31-Aug-2017 22:13:56 UTC] PHP Warning:  filesize(): stat failed for certificates/certificate_1504217635965.pdf in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 22:13:56 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 53
+[31-Aug-2017 22:13:56 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/mail.php on line 55
+[31-Aug-2017 22:25:14 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mylifelegacy/public_html/models/core/mail.php on line 56
+[31-Aug-2017 22:25:14 UTC] PHP Warning:  file_get_contents(https://createmylifeslegacy.com/models/core/certificates/certificate_1504218314662.pdf): failed to open stream: no suitable wrapper could be found in /home/mylifelegacy/public_html/models/core/mail.php on line 56
+[31-Aug-2017 22:30:59 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mylifelegacy/public_html/models/core/mail.php on line 51
+[31-Aug-2017 22:30:59 UTC] PHP Warning:  file_get_contents(https://createmylifeslegacy.com/models/core/certificates/certificate_1504218314662.pdf): failed to open stream: no suitable wrapper could be found in /home/mylifelegacy/public_html/models/core/mail.php on line 51
+[31-Aug-2017 22:38:33 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mylifelegacy/public_html/models/core/mail.php on line 51
+[31-Aug-2017 22:38:33 UTC] PHP Warning:  file_get_contents(http://createmylifeslegacy.com/models/core/certificates/certificate_1504218314662.pdf): failed to open stream: no suitable wrapper could be found in /home/mylifelegacy/public_html/models/core/mail.php on line 51
+[19-Oct-2017 18:13:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mylifelegacy/public_html/admin/models/members.php on line 224
+[12-Jan-2018 12:52:27 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/admin/models/menu.php on line 46

@@ -1,0 +1,102 @@
+<h1 class="text-center">{TITLE}</h1>
+<p class="muted text-center">
+	<!-- We collect their credit card, but their credit card will not be charged after the 15 days. Hence, they get a 15 day free trial. If the user cancels within the 15 days, his/her card will not be charged.
+	If the user does not cancel, then their card will be processed in 15 days. -->
+	{DESCRIPTION}</strong>
+</p>
+<form method="post" action="" id="subscription_form" autocomplete="off">
+	<div class="Member text-center">
+        <div class="textpayment">Account Information:</div>
+        <input type="text" name="fname" id="fname" placeholder="First name" /><br/>
+        <input type="text" name="lname" id="lname" placeholder="Last name or Maiden name" /><br/>
+        <input type="text" name="username" id="username" placeholder="Create a username" /><br/>
+        <input type="text" name="email" id="email" placeholder="Email address" /><br/>
+        <input type="password" name="password" id="password" placeholder="Choose a password" /><br/>
+    </div>
+	<div class="Payment">
+        <div class="textpayment">Card Information:</div>
+        <ul>
+            <li>
+                <div class="dudl">We accept:</div>
+                <div class="dudr">
+	                <img src="assets/img/card/Layer-1.png">
+	                <img src="assets/img/card/Layer-2.png" style="margin-left:6px;">
+	                <img src="assets/img/card/Layer-3.png" style="margin-left:6px;">
+	                <img src="assets/img/card/Layer-4.png" style="margin-left:6px;">
+				</div>
+				<div style="clear: both"></div>
+            </li>
+            <li>
+                <div class="dudl">Card Number:</div>
+                <div class="dudr">
+					<input type="text" name="x_card_num" id="txtCardNo" maxlength="16" class="sctexb" value="" required="">
+                </div>
+                <div style="clear: both"></div>
+            </li>
+            <li id="dExpiryDate">
+                <div class="dudl">Exp :</div>
+                <div class="dudr">
+                    <select style="width: 128px; margin-right: 5px;" id="cmbExpMonth" class="sctexb" name="x_exp_date_month" required="">
+                        <option value="">Month</option>
+                        <option value="01">Jan (1)</option>
+                        <option value="02">Feb (2)</option>
+                        <option value="03">Mar (3)</option>
+                        <option value="04">Apr (4)</option>
+                        <option value="05">May (5)</option>
+                        <option value="06">Jun (6)</option>
+                        <option value="07">Jul (7)</option>
+                        <option value="08">Aug (8)</option>
+                        <option value="09">Sep (9)</option>
+                        <option value="10">Oct (10)</option>
+                        <option value="11">Nov (11)</option>
+                        <option value="12">Dec (12)</option>
+                    </select>
+                    <select style="width: 128px;" id="cmbExpYear" class="sctexb" name="x_exp_date_year" required="">
+                        <option value="">Year</option>
+                        <option value="18">2018</option>
+                        <option value="19">2019</option>
+                        <option value="20">2020</option>
+                        <option value="21">2021</option>
+                        <option value="22">2022</option>
+                        <option value="23">2023</option>
+                        <option value="24">2024</option>
+                        <option value="25">2025</option>
+                        <option value="26">2026</option>
+                        <option value="27">2027</option>
+                        <option value="28">2028</option>
+                        <option value="29">2029</option>
+                        <option value="30">2030</option>
+                        <option value="31">2031</option>
+                    </select>
+                </div>
+                <div style="clear: both"></div>
+            </li>
+            <li id="dCVV">
+                <div class="dudl">CVV :</div>
+                <div class="dudr" >
+                	<input type="text" name="x_card_code" id="txtCVV" maxlength="4" style="width: 40px;" class="sctexb" value="" required="">
+                </div>
+                <div style="clear: both"></div>
+            </li>
+            <li>
+                <div>
+                	<input type="checkbox" name="chkPolicy" id="chkPolicy" required="">&nbsp;&nbsp;
+                	<label for="chkPolicy" style="display: inline-block;">I agree to the </label>
+                	<a href="terms-and-conditions" target="_blank" class="toolpopup cboxElement">Terms and Conditions</a>
+					&nbsp;&nbsp;&nbsp;
+                	Please read our 
+                		<a href="privacy-policy" target="_blank" class="toolpopup cboxElement">privacy policy</a>
+                </div>
+                <div style="clear: both"></div>
+            </li>
+            <li>
+            	<input type="submit" class="btn btn-success btn-subscript" value="Sign up" name="checkout" >
+            </li>
+        </ul>
+        <br clear="all">
+    </div>
+</form>
+<div class="modal hide access subprocess">
+    <div class="modal-body text-center">
+    </div>
+</div>

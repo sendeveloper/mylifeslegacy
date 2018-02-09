@@ -1,0 +1,25 @@
+.info-box {
+	width: calc(100% - 40px);
+}
+.toolbar {
+	text-align: center;
+}
+	.toolbar .pull-left, .toolbar .pull-right {
+		float: none;
+	}
+	.toolbar .btn {
+		margin-bottom: 10px;
+	}
+
+.app, .app.enlarged {
+	margin-left: 0px;
+}
+
+.menu.collapsed {
+	transform: translate3d(-230px, 0, 0);
+}
+
+.box .toolbar input[type="text"] {
+	width: auto;
+	max-width: 90%;
+}

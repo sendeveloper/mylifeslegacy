@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+        <meta name="keywords" content="{SITE_NAME}, administration, panel" />
+        <meta name="description" content="{SITE_NAME} administration panel" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <title>{SITE_NAME} Administration Panel</title>
+		
+		<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic">
+        <link rel="stylesheet" media="screen" href="../assets/css/font-style.css">
+        <link rel="stylesheet" media="screen" href="../assets/css/datepicker.css">
+        <link rel="stylesheet" media="screen" href="../assets/css/fileuploader.css">
+    	<link rel="stylesheet" media="screen" href="css/bootstrap.css" />
+    	<link rel="stylesheet" media="screen" href="css/bootstrap-responsive.min.css" />
+    	<link rel="stylesheet" media="screen" href="css/jquery.scrollable.css" />
+    	<link rel="stylesheet" media="screen" href="css/loader.css" />
+    	<link rel="stylesheet" media="screen" href="css/app.css?v={RANDOM}" />
+		<link rel="stylesheet" media="screen and (max-width: 720px)" href="css/app.mobile.css?v={RANDOM}"  />
+    </head>
+    <body>
+		
+		<div class="menu">
+			<div class="title">{SITE_NAME}</div>
+			<ul class="scrollable-content">
+				<li><a href="#" data-list="dashboard"><span class="ico ico-dashboard"></span><span>Dashboard</span></a></li>
+				<li><a href="#" data-list="webpages"><span class="ico ico-pages"></span><span>Pages</span></a></li>
+				<li><a href="#" data-list="menu"><span class="ico ico-menu"></span><span>Main menu</span></a></li>
+				<li><a href="#" data-list="notifications"><span class="ico ico-notifications"></span><span>Notifications</span></a></li>
+				<li><a href="#" data-list="members"><span class="ico ico-account-box"></span><span>Users</span></a></li>
+				<li><a href="#" data-list="categories"><span class="ico ico-label"></span><span>Timeline categories</span></a></li>
+				<li><a href="#" data-list="requests"><span class="ico ico-visibility"></span><span>Release requests</span></a></li>
+				<li><a href="#" data-list="subscription"><span class="ico ico-payment"></span><span>Subscription request</span></a></li>
+				<li><a href="#" data-list="transactions"><span class="ico ico-payment"></span><span>Transactions</span></a></li>
+				<li><a href="#" data-list="settings"><span class="ico ico-settings"></span><span>Settings</span></a></li>
+				<li class="divider"></li>
+				<li><a href="#" data-list="sign-out"><span class="ico ico-exit-to-app"></span><span>Sign out</span></a></li>
+			</ul>
+		</div>
+		<div class="header"><span class="ico ico-menu menu-handle"></span></div>
+		<div class="app"></div>
+		
+		{DEBUG}
+		
+        <script>var global = {GLOBAL}</script>
+        <script src="../assets/js/jquery.min.js"></script>
+        <script src="../assets/js/jquery.ui.min.js"></script>
+        <script src="../assets/js/bootstrap.min.js"></script>
+        <script src="../assets/js/datepicker.js"></script>
+        <script src="../assets/js/fileuploader.js"></script>
+        <script src="../assets/js/jquery.validate.min.js"></script>
+		<script src="ckeditor/ckeditor.js"></script>
+		<script src="ckeditor/adapters/jquery.js"></script>
+		<script src="js/chart.min.js"></script>
+		<script src="js/chart.scatter.min.js"></script>
+        <script src="js/app.js?v={RANDOM}"></script>
+    </body>
+</html>

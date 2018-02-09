@@ -1,0 +1,115 @@
+<link rel="stylesheet" href="https://tour.tourmyapp.com/static/widgets/widgets.css" type="text/css">
+
+<h1 class="text-center">My Account</h1>
+<h3>{SUBSCRIPTION}</h3>
+{ALERT}
+
+<form action="" method="post" class="account">
+	<input type="hidden" name="act" value="account-update" />
+	<input type="hidden" name="data[image]" value="{IMAGE}" />
+	
+	<div class="text-center">
+		<img src="{IMAGE}" class="profile h100" />
+	</div>
+	<div class="text-center" style="margin: 10px 0px 20px 0px">
+		<div id="file-uploader" style="display: inline-block;"></div>
+	</div>
+	
+	<div class="row-fluid">
+		<div class="span12 text-center">
+			<div class="row-fluid">
+				<div class="span12">
+					<textarea class="span5" rows="6" name="person[description]" placeholder="Share any personal information, anecdotes or funny stories..." />{DESCRIPTION}</textarea>
+				</div>
+			</div>
+		</div>
+	</div>
+			
+	<div class="row-fluid">
+		<div class="span6 text-right">
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="data[fname]" value="{FNAME}" placeholder="First name" />
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="data[mname]" value="{MNAME}" placeholder="Middle name" />
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="data[lname]" value="{LNAME}" placeholder="Last name or maiden name if female" />
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="person[fathername]" value="{FATHERNAME}" placeholder="Father's name" />
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="person[maiden]" value="{MAIDEN}" placeholder="Mother's maiden name" />
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="person[nickname]" value="{NICKNAME}" placeholder="Your nickname or married names" />
+				</div>
+			</div>
+		</div>
+		<div class="span6">
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="data[username]" value="{USERNAME}" placeholder="Username" />
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="data[email]" value="{EMAIL}" placeholder="Email" />
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="password" name="data[password]" value="{PASSWORD}" placeholder="Password" />
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<select name="data[gender]">{GENDER}</select>
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="data[dob]" value="{DOB}" placeholder="Date of birth" class="datepicker" />
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="data[pob]" value="{POB}" placeholder="Place of birth" />
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12">
+					<input type="text" name="data[city]" value="{CITY}" placeholder="Current city" />
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<p class="text-center">
+		<button class="btn btn-success"><span class="ico ico-check"></span> Save</button>
+		{SUBSCRIPT_BUTTON}
+	</p>
+</form>

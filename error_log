@@ -1,0 +1,882 @@
+[25-Nov-2016 15:01:07 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/timeline.php on line 58
+[25-Nov-2016 15:01:07 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/timeline.php on line 58
+[27-Nov-2016 20:20:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/mylifelegacy/public_html/models/core/ofimage.php on line 64
+[27-Nov-2016 20:29:02 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[27-Nov-2016 20:29:02 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[27-Nov-2016 20:29:02 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[27-Nov-2016 20:29:02 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[27-Nov-2016 20:29:02 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[27-Nov-2016 20:29:02 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[27-Nov-2016 20:29:02 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[28-Nov-2016 00:52:40 UTC] PHP Notice:  Undefined variable: bt in /home/mylifelegacy/public_html/models/core/database.php on line 33
+[28-Nov-2016 00:52:40 UTC] PHP Notice:  Undefined variable: bt in /home/mylifelegacy/public_html/models/core/database.php on line 33
+[28-Nov-2016 10:08:17 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 64
+[28-Nov-2016 11:56:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/mylifelegacy/public_html/models/core/ofimage.php on line 64
+[28-Nov-2016 11:56:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mylifelegacy/public_html/models/core/ofimage.php on line 52
+[28-Nov-2016 13:17:47 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in /home/mylifelegacy/public_html/models/core/general.php on line 15
+[28-Nov-2016 13:17:50 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in /home/mylifelegacy/public_html/models/core/general.php on line 15
+[28-Nov-2016 13:17:55 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in /home/mylifelegacy/public_html/models/core/general.php on line 15
+[28-Nov-2016 13:17:59 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in /home/mylifelegacy/public_html/models/core/general.php on line 15
+[28-Nov-2016 13:18:07 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in /home/mylifelegacy/public_html/models/core/general.php on line 15
+[28-Nov-2016 13:28:54 UTC] PHP Notice:  Undefined index: q in /home/mylifelegacy/public_html/models/core/general.php on line 15
+[28-Nov-2016 13:28:54 UTC] PHP Notice:  Undefined index: q in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[28-Nov-2016 13:28:54 UTC] PHP Notice:  Undefined index: q in /home/mylifelegacy/public_html/models/core/general.php on line 17
+[28-Nov-2016 13:28:54 UTC] PHP Notice:  Undefined index: q in /home/mylifelegacy/public_html/models/core/general.php on line 18
+[28-Nov-2016 13:28:54 UTC] PHP Notice:  Undefined index: q in /home/mylifelegacy/public_html/models/core/general.php on line 19
+[28-Nov-2016 13:28:54 UTC] PHP Notice:  Undefined index: q in /home/mylifelegacy/public_html/models/core/general.php on line 22
+[28-Nov-2016 13:28:54 UTC] PHP Notice:  Undefined index: q in /home/mylifelegacy/public_html/models/core/general.php on line 34
+[28-Nov-2016 13:28:54 UTC] PHP Notice:  Undefined index: q in /home/mylifelegacy/public_html/models/core/general.php on line 39
+[28-Nov-2016 13:28:54 UTC] PHP Notice:  Undefined index: q in /home/mylifelegacy/public_html/models/core/general.php on line 44
+[28-Nov-2016 13:30:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mylifelegacy/public_html/models/core/ofimage.php on line 52
+[28-Nov-2016 13:31:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12288 bytes) in /home/mylifelegacy/public_html/models/core/ofimage.php on line 52
+[28-Nov-2016 14:30:14 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 138
+[28-Nov-2016 14:30:16 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 138
+[28-Nov-2016 14:30:20 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 138
+[28-Nov-2016 14:30:22 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 138
+[28-Nov-2016 14:30:24 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 138
+[28-Nov-2016 14:30:25 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 138
+[28-Nov-2016 14:30:27 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 138
+[28-Nov-2016 14:35:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/mylifelegacy/public_html/models/core/ofimage.php on line 64
+[28-Nov-2016 14:38:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/mylifelegacy/public_html/models/core/ofimage.php on line 64
+[28-Nov-2016 19:44:16 UTC] PHP Notice:  Undefined index: CONTENT_TYPE in /home/mylifelegacy/public_html/models/core/uploader.php on line 87
+[28-Nov-2016 19:44:16 UTC] PHP Fatal error:  Uncaught Exception: Getting content length is not supported. in /home/mylifelegacy/public_html/models/core/uploader.php:38
+Stack trace:
+#0 /home/mylifelegacy/public_html/models/core/uploader.php(140): qqUploadedFileXhr->getSize()
+#1 /home/mylifelegacy/public_html/models/core/general.php(100): Uploader->handleUpload('uploads/temp/')
+#2 /home/mylifelegacy/public_html/models/core/controller.php(28): General->upload(Array)
+#3 /home/mylifelegacy/public_html/startup.php(18): Controller->__construct()
+#4 /home/mylifelegacy/public_html/index.php(6): require('/home/mylifeleg...')
+#5 {main}
+  thrown in /home/mylifelegacy/public_html/models/core/uploader.php on line 38
+[29-Nov-2016 03:33:54 UTC] PHP Warning:  rename(uploads/temp/90d3fcfd24d23be4138a4693a7910a64.JPG,uploads/event/1480390434.1721.1_90d3fcfd24d23be4138a4693a7910a64.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:33:54 UTC] PHP Warning:  rename(uploads/temp/4679e31699adc13aed78740698d0ca2c.JPG,uploads/event/1480390434.1723.1_4679e31699adc13aed78740698d0ca2c.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:33:54 UTC] PHP Warning:  rename(uploads/temp/56180192205d6f1e9f594aa191d3a391.JPG,uploads/event/1480390434.1723.1_56180192205d6f1e9f594aa191d3a391.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:33:54 UTC] PHP Warning:  rename(uploads/temp/9b9fec7e8df909a20c8a68b7ff09ce75.JPG,uploads/event/1480390434.1724.1_9b9fec7e8df909a20c8a68b7ff09ce75.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:33:54 UTC] PHP Warning:  rename(uploads/temp/32889e1b55037c6941b9bd4f9494a371.JPG,uploads/event/1480390434.1724.1_32889e1b55037c6941b9bd4f9494a371.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/25744b2e8a1caa1b147ad3d7cec5e860.JPG,uploads/event/1480390934.0464.1_25744b2e8a1caa1b147ad3d7cec5e860.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/7504f1e5dbb2140bc015b6abd46c0f45.JPG,uploads/event/1480390934.0466.1_7504f1e5dbb2140bc015b6abd46c0f45.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/d2ec89285af8e7ca82b53887d89896cf.JPG,uploads/event/1480390934.0466.1_d2ec89285af8e7ca82b53887d89896cf.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/da62038242c23cbfbdb881e0611bb857.JPG,uploads/event/1480390934.0466.1_da62038242c23cbfbdb881e0611bb857.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/e09939b59687e7c8086db9cf1354fb6f.JPG,uploads/event/1480390934.0467.1_e09939b59687e7c8086db9cf1354fb6f.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/31285b5411effcaca248ed1baa108ce6.PNG,uploads/event/1480390934.0467.1_31285b5411effcaca248ed1baa108ce6.PNG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/ed6e8e746322142509b99d125fb06387.JPG,uploads/event/1480390934.0468.1_ed6e8e746322142509b99d125fb06387.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/310fc448d4ec99aca73157fc351bb0db.JPG,uploads/event/1480390934.0468.1_310fc448d4ec99aca73157fc351bb0db.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/4cd53447893365a699d7682a2819a17c.JPG,uploads/event/1480390934.0468.1_4cd53447893365a699d7682a2819a17c.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/6cadf1bda440f82c634d39b7a7f300f6.JPG,uploads/event/1480390934.0469.1_6cadf1bda440f82c634d39b7a7f300f6.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/3b3b3c985900b1f78511d61202e728f3.JPG,uploads/event/1480390934.0469.1_3b3b3c985900b1f78511d61202e728f3.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/7e44c051e876be31b2a6223fb0d59304.JPG,uploads/event/1480390934.0469.1_7e44c051e876be31b2a6223fb0d59304.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/32fe367205610582deff9acbd9323f3c.JPG,uploads/event/1480390934.047.1_32fe367205610582deff9acbd9323f3c.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/de636deb960e0450fea0497df713a806.JPG,uploads/event/1480390934.047.1_de636deb960e0450fea0497df713a806.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/97d25c9d0b2438e6f5c9f39817069c26.JPG,uploads/event/1480390934.047.1_97d25c9d0b2438e6f5c9f39817069c26.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:14 UTC] PHP Warning:  rename(uploads/temp/121bf1980d317195b45b146b4ec8a67a.JPG,uploads/event/1480390934.0471.1_121bf1980d317195b45b146b4ec8a67a.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/25744b2e8a1caa1b147ad3d7cec5e860.JPG,uploads/event/1480390962.0963.1_25744b2e8a1caa1b147ad3d7cec5e860.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/7504f1e5dbb2140bc015b6abd46c0f45.JPG,uploads/event/1480390962.0964.1_7504f1e5dbb2140bc015b6abd46c0f45.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/d2ec89285af8e7ca82b53887d89896cf.JPG,uploads/event/1480390962.0964.1_d2ec89285af8e7ca82b53887d89896cf.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/da62038242c23cbfbdb881e0611bb857.JPG,uploads/event/1480390962.0964.1_da62038242c23cbfbdb881e0611bb857.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/e09939b59687e7c8086db9cf1354fb6f.JPG,uploads/event/1480390962.0965.1_e09939b59687e7c8086db9cf1354fb6f.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/31285b5411effcaca248ed1baa108ce6.PNG,uploads/event/1480390962.0965.1_31285b5411effcaca248ed1baa108ce6.PNG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/ed6e8e746322142509b99d125fb06387.JPG,uploads/event/1480390962.0966.1_ed6e8e746322142509b99d125fb06387.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/310fc448d4ec99aca73157fc351bb0db.JPG,uploads/event/1480390962.0966.1_310fc448d4ec99aca73157fc351bb0db.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/4cd53447893365a699d7682a2819a17c.JPG,uploads/event/1480390962.0966.1_4cd53447893365a699d7682a2819a17c.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/6cadf1bda440f82c634d39b7a7f300f6.JPG,uploads/event/1480390962.0966.1_6cadf1bda440f82c634d39b7a7f300f6.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/3b3b3c985900b1f78511d61202e728f3.JPG,uploads/event/1480390962.0967.1_3b3b3c985900b1f78511d61202e728f3.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/7e44c051e876be31b2a6223fb0d59304.JPG,uploads/event/1480390962.0967.1_7e44c051e876be31b2a6223fb0d59304.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/32fe367205610582deff9acbd9323f3c.JPG,uploads/event/1480390962.0967.1_32fe367205610582deff9acbd9323f3c.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/de636deb960e0450fea0497df713a806.JPG,uploads/event/1480390962.0967.1_de636deb960e0450fea0497df713a806.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/97d25c9d0b2438e6f5c9f39817069c26.JPG,uploads/event/1480390962.0968.1_97d25c9d0b2438e6f5c9f39817069c26.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[29-Nov-2016 03:42:42 UTC] PHP Warning:  rename(uploads/temp/121bf1980d317195b45b146b4ec8a67a.JPG,uploads/event/1480390962.0968.1_121bf1980d317195b45b146b4ec8a67a.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 115
+[01-Dec-2016 11:54:28 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 64
+[02-Dec-2016 08:41:07 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 64
+[07-Dec-2016 22:57:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/mylifelegacy/public_html/config.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mylifelegacy/public_html/config.php on line 21
+[08-Dec-2016 00:38:43 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mylifelegacy/public_html/models/core/auth.php on line 275
+[08-Dec-2016 04:53:50 UTC] PHP Warning:  rename(uploads/temp/47357b174f035ae5de1e8fe8a3b9c286.JPG,uploads/event/1481172830.2434.11_47357b174f035ae5de1e8fe8a3b9c286.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[08-Dec-2016 18:54:37 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/familytree.php on line 535
+[08-Dec-2016 18:54:37 UTC] PHP Notice:  Undefined index: dob in /home/mylifelegacy/public_html/models/familytree.php on line 541
+[08-Dec-2016 18:54:37 UTC] PHP Notice:  Undefined index: dod in /home/mylifelegacy/public_html/models/familytree.php on line 549
+[08-Dec-2016 18:54:37 UTC] PHP Notice:  Undefined index: id in /home/mylifelegacy/public_html/models/familytree.php on line 562
+[08-Dec-2016 19:28:30 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mylifelegacy/public_html/models/core/auth.php on line 275
+[08-Dec-2016 19:35:19 UTC] PHP Notice:  A non well formed numeric value encountered in /home/mylifelegacy/public_html/models/core/auth.php on line 275
+[08-Dec-2016 21:35:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method General::familytree() in /home/mylifelegacy/public_html/models/core/controller.php:28
+Stack trace:
+#0 /home/mylifelegacy/public_html/startup.php(18): Controller->__construct()
+#1 /home/mylifelegacy/public_html/index.php(6): require('/home/mylifeleg...')
+#2 {main}
+  thrown in /home/mylifelegacy/public_html/models/core/controller.php on line 28
+[08-Dec-2016 21:35:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method General::familytree() in /home/mylifelegacy/public_html/models/core/controller.php:28
+Stack trace:
+#0 /home/mylifelegacy/public_html/startup.php(18): Controller->__construct()
+#1 /home/mylifelegacy/public_html/index.php(6): require('/home/mylifeleg...')
+#2 {main}
+  thrown in /home/mylifelegacy/public_html/models/core/controller.php on line 28
+[08-Dec-2016 21:35:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method General::familytree() in /home/mylifelegacy/public_html/models/core/controller.php:28
+Stack trace:
+#0 /home/mylifelegacy/public_html/startup.php(18): Controller->__construct()
+#1 /home/mylifelegacy/public_html/index.php(6): require('/home/mylifeleg...')
+#2 {main}
+  thrown in /home/mylifelegacy/public_html/models/core/controller.php on line 28
+[15-Jan-2017 04:11:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mylifelegacy/public_html/models/core/general.php:123) in /home/mylifelegacy/public_html/models/core/helper.php on line 190
+[17-Jan-2017 03:42:18 UTC] PHP Notice:  Undefined index: username in /home/mylifelegacy/public_html/models/core/auth.php on line 235
+[17-Jan-2017 03:42:18 UTC] PHP Notice:  Undefined index: promocode in /home/mylifelegacy/public_html/models/core/auth.php on line 248
+[18-Jan-2017 20:50:36 UTC] PHP Notice:  Undefined index: fname in /home/mylifelegacy/public_html/models/core/auth.php on line 82
+[18-Jan-2017 20:50:36 UTC] PHP Notice:  Undefined index: lname in /home/mylifelegacy/public_html/models/core/auth.php on line 83
+[23-Jan-2017 13:32:40 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[23-Jan-2017 13:32:40 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[23-Jan-2017 13:32:40 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[23-Jan-2017 13:32:40 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[23-Jan-2017 13:32:40 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[23-Jan-2017 13:32:40 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[23-Jan-2017 13:32:40 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[23-Jan-2017 13:34:05 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[23-Jan-2017 13:34:05 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[23-Jan-2017 13:34:05 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[23-Jan-2017 13:34:05 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[23-Jan-2017 13:34:05 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[23-Jan-2017 13:34:05 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[23-Jan-2017 13:34:05 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[23-Jan-2017 19:57:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mylifelegacy/public_html/models/core/general.php:123) in /home/mylifelegacy/public_html/models/core/helper.php on line 190
+[23-Jan-2017 19:57:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mylifelegacy/public_html/models/core/general.php:123) in /home/mylifelegacy/public_html/models/core/helper.php on line 190
+[23-Jan-2017 19:57:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mylifelegacy/public_html/models/core/general.php:123) in /home/mylifelegacy/public_html/models/core/helper.php on line 190
+[24-Jan-2017 16:38:36 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[24-Jan-2017 16:38:36 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 17
+[24-Jan-2017 16:38:36 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 18
+[24-Jan-2017 16:38:36 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 20
+[24-Jan-2017 16:38:36 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 45
+[24-Jan-2017 16:38:36 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 50
+[24-Jan-2017 16:38:36 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 55
+[24-Jan-2017 16:38:36 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 60
+[24-Jan-2017 16:38:42 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[24-Jan-2017 16:38:42 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 17
+[24-Jan-2017 16:38:42 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 18
+[24-Jan-2017 16:38:42 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 20
+[24-Jan-2017 16:38:42 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 45
+[24-Jan-2017 16:38:42 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 50
+[24-Jan-2017 16:38:42 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 55
+[24-Jan-2017 16:38:42 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 60
+[24-Jan-2017 16:39:25 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[24-Jan-2017 16:39:25 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 17
+[24-Jan-2017 16:39:25 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 18
+[24-Jan-2017 16:39:25 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 20
+[24-Jan-2017 16:39:25 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 45
+[24-Jan-2017 16:39:25 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 50
+[24-Jan-2017 16:39:25 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 55
+[24-Jan-2017 16:39:25 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 60
+[24-Jan-2017 16:39:29 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[24-Jan-2017 16:39:29 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 17
+[24-Jan-2017 16:39:29 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 18
+[24-Jan-2017 16:39:29 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 20
+[24-Jan-2017 16:39:29 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 45
+[24-Jan-2017 16:39:29 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 50
+[24-Jan-2017 16:39:29 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 55
+[24-Jan-2017 16:39:29 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 60
+[24-Jan-2017 16:39:31 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[24-Jan-2017 16:39:31 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 17
+[24-Jan-2017 16:39:31 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 18
+[24-Jan-2017 16:39:31 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 20
+[24-Jan-2017 16:39:31 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 45
+[24-Jan-2017 16:39:31 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 50
+[24-Jan-2017 16:39:31 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 55
+[24-Jan-2017 16:39:31 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 60
+[27-Jan-2017 17:30:38 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:38 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:39 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:39 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:30:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:03 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:07 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:07 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:07 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:07 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:07 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:51 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:51 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:51 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:52 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:31:52 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:32:26 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[27-Jan-2017 17:32:26 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/familytree.php on line 633
+[01-Feb-2017 12:30:05 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[01-Feb-2017 12:30:05 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 17
+[01-Feb-2017 12:30:05 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 18
+[01-Feb-2017 12:30:05 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 20
+[01-Feb-2017 12:30:05 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 45
+[01-Feb-2017 12:30:05 UTC] PHP Notice:  Undefined index: maiden in /home/mylifelegacy/public_html/models/core/general.php on line 50
+[01-Feb-2017 12:30:05 UTC] PHP Notice:  Undefined index: city in /home/mylifelegacy/public_html/models/core/general.php on line 55
+[01-Feb-2017 12:30:05 UTC] PHP Notice:  Undefined offset: 4 in /home/mylifelegacy/public_html/models/core/general.php on line 60
+[28-Feb-2017 16:41:55 UTC] PHP Warning:  rename(uploads/temp/cddc7538845e342a654c9e0835ee16ff.MOV,uploads/event/1488300115.5797.4_cddc7538845e342a654c9e0835ee16ff.MOV): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[28-Feb-2017 16:41:56 UTC] PHP Warning:  rename(uploads/temp/cddc7538845e342a654c9e0835ee16ff.MOV,uploads/event/1488300116.8754.4_cddc7538845e342a654c9e0835ee16ff.MOV): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[28-Feb-2017 16:41:57 UTC] PHP Warning:  rename(uploads/temp/cddc7538845e342a654c9e0835ee16ff.MOV,uploads/event/1488300117.1718.4_cddc7538845e342a654c9e0835ee16ff.MOV): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[28-Feb-2017 16:42:01 UTC] PHP Warning:  rename(uploads/temp/cddc7538845e342a654c9e0835ee16ff.MOV,uploads/event/1488300121.5746.4_cddc7538845e342a654c9e0835ee16ff.MOV): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[28-Feb-2017 16:44:29 UTC] PHP Warning:  rename(uploads/temp/cddc7538845e342a654c9e0835ee16ff.MOV,uploads/event/1488300269.3698.4_cddc7538845e342a654c9e0835ee16ff.MOV): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[28-Feb-2017 16:44:30 UTC] PHP Warning:  rename(uploads/temp/cddc7538845e342a654c9e0835ee16ff.MOV,uploads/event/1488300270.5766.4_cddc7538845e342a654c9e0835ee16ff.MOV): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[28-Feb-2017 16:51:40 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/timeline.php on line 58
+[28-Feb-2017 16:51:40 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/timeline.php on line 58
+[01-Mar-2017 21:54:03 UTC] PHP Warning:  rename(uploads/temp/133857064.mp4,uploads/event/1488405243.862.3_133857064.mp4): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[02-Mar-2017 13:01:32 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:01:32 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:01:43 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:01:43 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:01:56 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:01:56 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:01:56 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:01:56 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:01:57 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:01:57 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:01:57 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:01:57 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:02:13 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:02:13 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:02:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:02:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:02:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:02:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:02:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:02:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:02:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:02:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:02:42 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:02:42 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:02:42 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:02:42 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:02:43 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:02:43 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:02:43 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:02:43 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:02:44 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:02:44 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:02:44 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:02:44 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:02:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:02:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:02:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:02:54 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:03:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:03:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:03:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:03:02 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:03:14 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:03:14 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:03:15 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:03:15 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:03:16 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:03:16 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:03:28 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:03:29 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:03:29 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:03:29 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:03:36 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:03:36 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:03:45 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:03:45 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:03:46 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:03:46 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:03:58 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:03:58 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:04:16 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:04:16 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:04:16 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:04:16 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:04:22 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:04:22 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:04:38 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:04:38 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:04:38 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:04:38 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:04:49 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:04:49 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:04:49 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:04:49 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:04:56 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:04:56 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:05:15 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:05:15 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:05:27 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:05:27 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:05:39 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:05:39 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:05:39 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:05:39 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:05:58 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:05:58 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:06:12 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:06:12 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:06:24 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:06:24 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:06:24 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:06:24 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:06:31 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:06:31 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:06:32 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:06:32 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:06:33 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:06:33 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:06:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:06:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:06:51 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:06:51 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:07:06 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:07:06 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:07:06 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 85
+[02-Mar-2017 13:07:06 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 121
+[02-Mar-2017 13:07:16 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:07:16 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:11:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:11:34 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:11:48 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:11:48 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:11:59 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:11:59 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:12:09 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:12:09 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:12:23 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:12:23 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:12:25 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:12:25 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:12:26 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:12:26 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:13:00 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:13:00 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:13:37 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:13:37 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:13:55 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:13:55 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:17:45 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:17:45 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:17:56 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:17:56 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:19:46 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:19:46 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:19:57 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:19:57 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:20:25 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:20:25 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[02-Mar-2017 13:20:53 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[02-Mar-2017 13:20:53 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[04-Apr-2017 13:45:58 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 13:45:58 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 13:46:01 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:01:41 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:01:41 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:01:52 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:01:56 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:02:05 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:02:50 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:03:21 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:03:49 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:03:49 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:04:23 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:04:23 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:04:33 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:04:33 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:04:34 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:04:34 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:04:36 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:04:37 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:04:52 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:04:52 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:06:10 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:06:14 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:06:16 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:07:18 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:07:19 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:07:30 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:09:40 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:10:01 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:10:01 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:10:14 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:10:42 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:10:42 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:14:26 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:14:27 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:14:37 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:14:41 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 14:25:09 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:45:45 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:45:45 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:45:45 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:46:11 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:46:12 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:46:15 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:46:15 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:49:50 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:49:50 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:49:56 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:49:57 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:50:00 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:50:00 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:52:42 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:52:42 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:55:07 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:55:08 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:56:34 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:56:34 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:56:41 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:56:41 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 19:59:37 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:48 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:49 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:51 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:51 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:52 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:52 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:54 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:54 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:56 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:57 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:57 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:57 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[04-Apr-2017 20:33:57 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 19
+[08-Apr-2017 05:36:21 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[08-Apr-2017 05:36:21 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[08-Apr-2017 14:00:10 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[08-Apr-2017 14:00:10 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[19-Apr-2017 12:13:01 UTC] PHP Notice:  Undefined index: lname in /home/mylifelegacy/public_html/models/familytree.php on line 121
+[05-May-2017 08:18:22 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[05-May-2017 08:18:22 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[17-Jun-2017 10:15:41 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[17-Jun-2017 10:15:42 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[05-Jul-2017 09:13:52 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 16
+[05-Jul-2017 09:13:52 UTC] PHP Notice:  Undefined offset: 1 in /home/mylifelegacy/public_html/models/core/general.php on line 47
+[22-Jul-2017 10:59:04 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[22-Jul-2017 10:59:05 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[07-Aug-2017 18:48:55 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[07-Aug-2017 18:48:56 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[18-Aug-2017 14:31:06 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[18-Aug-2017 14:31:06 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[04-Sep-2017 21:27:12 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[04-Sep-2017 21:27:12 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[05-Sep-2017 22:35:32 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 23
+[05-Sep-2017 22:35:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mylifelegacy/public_html/models/core/user.php on line 23
+[05-Sep-2017 22:35:32 UTC] PHP Notice:  Undefined property: User::$fname in /home/mylifelegacy/public_html/models/core/user.php on line 39
+[05-Sep-2017 22:35:32 UTC] PHP Notice:  Undefined property: User::$lname in /home/mylifelegacy/public_html/models/core/user.php on line 39
+[05-Sep-2017 22:35:32 UTC] PHP Notice:  Undefined property: User::$dob in /home/mylifelegacy/public_html/models/core/user.php on line 40
+[11-Sep-2017 15:35:08 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 23
+[11-Sep-2017 15:35:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mylifelegacy/public_html/models/core/user.php on line 23
+[11-Sep-2017 15:35:08 UTC] PHP Notice:  Undefined property: User::$fname in /home/mylifelegacy/public_html/models/core/user.php on line 39
+[11-Sep-2017 15:35:08 UTC] PHP Notice:  Undefined property: User::$lname in /home/mylifelegacy/public_html/models/core/user.php on line 39
+[11-Sep-2017 15:35:08 UTC] PHP Notice:  Undefined property: User::$dob in /home/mylifelegacy/public_html/models/core/user.php on line 40
+[19-Sep-2017 20:37:17 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[19-Sep-2017 20:37:17 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[27-Sep-2017 22:43:43 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[27-Sep-2017 22:43:43 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[29-Sep-2017 00:40:33 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[29-Sep-2017 00:40:33 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[30-Sep-2017 10:00:46 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 211
+[30-Sep-2017 10:48:15 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[30-Sep-2017 10:48:15 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[30-Sep-2017 12:41:27 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[30-Sep-2017 12:43:15 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[30-Sep-2017 12:43:15 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[30-Sep-2017 12:44:15 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[01-Oct-2017 00:32:30 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[01-Oct-2017 00:32:30 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[01-Oct-2017 11:56:48 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[01-Oct-2017 11:56:49 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[01-Oct-2017 11:59:36 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[01-Oct-2017 11:59:37 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[01-Oct-2017 16:28:56 UTC] PHP Notice:  Undefined index: CONTENT_TYPE in /home/mylifelegacy/public_html/models/core/uploader.php on line 87
+[01-Oct-2017 16:29:08 UTC] PHP Notice:  Undefined index: CONTENT_TYPE in /home/mylifelegacy/public_html/models/core/uploader.php on line 87
+[01-Oct-2017 16:37:39 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[01-Oct-2017 16:37:39 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[01-Oct-2017 16:37:39 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[01-Oct-2017 16:37:39 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[01-Oct-2017 16:37:39 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[01-Oct-2017 16:37:39 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[01-Oct-2017 16:37:39 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[01-Oct-2017 16:38:10 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[01-Oct-2017 16:38:10 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[01-Oct-2017 16:38:10 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[01-Oct-2017 16:38:10 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[01-Oct-2017 16:38:10 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[01-Oct-2017 16:38:10 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[01-Oct-2017 16:38:10 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[01-Oct-2017 16:38:56 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[01-Oct-2017 16:44:17 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[01-Oct-2017 16:44:17 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[01-Oct-2017 16:44:17 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[01-Oct-2017 16:44:17 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[01-Oct-2017 16:44:17 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[01-Oct-2017 16:44:17 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[01-Oct-2017 16:44:17 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[01-Oct-2017 17:04:35 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[01-Oct-2017 17:04:35 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[01-Oct-2017 17:04:35 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[01-Oct-2017 17:04:35 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[01-Oct-2017 17:04:35 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[01-Oct-2017 17:04:35 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[01-Oct-2017 17:04:35 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[08-Oct-2017 01:25:36 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[08-Oct-2017 01:27:28 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[08-Oct-2017 09:05:09 UTC] PHP Warning:  file_get_contents(template-home.html): failed to open stream: No such file or directory in /home/mylifelegacy/public_html/models/core/parser.php on line 15
+[14-Oct-2017 21:40:04 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[14-Oct-2017 21:40:04 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[17-Oct-2017 17:30:59 UTC] PHP Notice:  Undefined index: CONTENT_TYPE in /home/mylifelegacy/public_html/models/core/uploader.php on line 87
+[17-Oct-2017 17:31:12 UTC] PHP Notice:  Undefined index: CONTENT_TYPE in /home/mylifelegacy/public_html/models/core/uploader.php on line 87
+[17-Oct-2017 18:22:47 UTC] PHP Notice:  Undefined index: CONTENT_TYPE in /home/mylifelegacy/public_html/models/core/uploader.php on line 87
+[17-Oct-2017 19:20:50 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 97
+[17-Oct-2017 19:20:50 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 211
+[17-Oct-2017 19:20:52 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 97
+[17-Oct-2017 19:20:52 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 211
+[17-Oct-2017 19:21:24 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 97
+[17-Oct-2017 19:21:24 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 120
+[17-Oct-2017 19:21:24 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 211
+[17-Oct-2017 19:21:40 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 97
+[17-Oct-2017 19:21:40 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 120
+[17-Oct-2017 19:21:40 UTC] PHP Warning:  rename(uploads/temp/e588cc343230847711b2389a5725f9ac.JPG,uploads/event/1508268100.3428._e588cc343230847711b2389a5725f9ac.JPG): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[17-Oct-2017 19:21:40 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 211
+[17-Oct-2017 19:21:44 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 173
+[17-Oct-2017 19:21:59 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 97
+[17-Oct-2017 19:21:59 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 211
+[17-Oct-2017 19:22:00 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 97
+[17-Oct-2017 19:22:00 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 211
+[17-Oct-2017 19:22:02 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 97
+[17-Oct-2017 19:22:02 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 211
+[17-Oct-2017 19:22:08 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 154
+[17-Oct-2017 19:22:23 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/timeline.php on line 58
+[17-Oct-2017 19:22:23 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/timeline.php on line 58
+[17-Oct-2017 19:22:23 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 154
+[19-Oct-2017 18:14:58 UTC] PHP Notice:  Undefined offset: 0 in /home/mylifelegacy/public_html/models/core/user.php on line 23
+[19-Oct-2017 18:14:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mylifelegacy/public_html/models/core/user.php on line 23
+[19-Oct-2017 18:14:58 UTC] PHP Notice:  Undefined property: User::$fname in /home/mylifelegacy/public_html/models/core/user.php on line 39
+[19-Oct-2017 18:14:58 UTC] PHP Notice:  Undefined property: User::$lname in /home/mylifelegacy/public_html/models/core/user.php on line 39
+[19-Oct-2017 18:14:58 UTC] PHP Notice:  Undefined property: User::$dob in /home/mylifelegacy/public_html/models/core/user.php on line 40
+[20-Oct-2017 01:47:40 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[20-Oct-2017 01:47:41 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[23-Oct-2017 17:04:19 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[23-Oct-2017 17:04:19 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[03-Nov-2017 16:43:35 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[03-Nov-2017 16:43:35 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[06-Nov-2017 08:46:00 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[06-Nov-2017 08:48:54 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[08-Nov-2017 03:03:09 UTC] PHP Warning:  rename(uploads/temp/7beebe25b4fed8519d596cabbad5e9d9.mov,uploads/event/1510110189.1914.77_7beebe25b4fed8519d596cabbad5e9d9.mov): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[08-Nov-2017 03:03:09 UTC] PHP Warning:  rename(uploads/temp/7beebe25b4fed8519d596cabbad5e9d9.mov,uploads/event/1510110189.2147.77_7beebe25b4fed8519d596cabbad5e9d9.mov): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[08-Nov-2017 15:25:57 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 173
+[10-Nov-2017 15:50:08 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[10-Nov-2017 15:52:04 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[10-Nov-2017 17:31:35 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 173
+[10-Nov-2017 17:39:22 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 173
+[10-Nov-2017 18:49:40 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 173
+[10-Nov-2017 18:49:44 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 173
+[10-Nov-2017 18:49:46 UTC] PHP Notice:  Trying to get property of non-object in /home/mylifelegacy/public_html/models/timeline.php on line 173
+[25-Nov-2017 17:57:50 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[25-Nov-2017 17:57:50 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[27-Nov-2017 19:23:45 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[27-Nov-2017 19:23:45 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[01-Dec-2017 11:10:00 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[01-Dec-2017 11:10:07 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:09:29 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:09:47 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:09:47 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:09:47 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:09:47 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:09:47 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:09:47 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:09:47 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:10:23 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:10:26 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:10:27 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:20:46 UTC] PHP Notice:  Undefined index: lname in /home/mylifelegacy/public_html/models/familytree.php on line 121
+[05-Dec-2017 21:27:52 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:27:52 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:27:52 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:27:52 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:27:52 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:27:52 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:27:52 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:28:05 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:28:05 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:28:05 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:28:05 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:28:05 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:28:05 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:28:05 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[05-Dec-2017 21:28:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[06-Dec-2017 19:09:40 UTC] PHP Warning:  rename(uploads/temp/d023b30adb65acf558334fa2817d7980.jpg,uploads/event/1512587380.6604.77_d023b30adb65acf558334fa2817d7980.jpg): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[06-Dec-2017 19:09:40 UTC] PHP Warning:  rename(uploads/temp/d023b30adb65acf558334fa2817d7980.jpg,uploads/event/1512587380.6684.77_d023b30adb65acf558334fa2817d7980.jpg): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[06-Dec-2017 19:09:40 UTC] PHP Warning:  rename(uploads/temp/d023b30adb65acf558334fa2817d7980.jpg,uploads/event/1512587380.6764.77_d023b30adb65acf558334fa2817d7980.jpg): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[06-Dec-2017 19:09:40 UTC] PHP Warning:  rename(uploads/temp/d023b30adb65acf558334fa2817d7980.jpg,uploads/event/1512587380.6844.77_d023b30adb65acf558334fa2817d7980.jpg): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[06-Dec-2017 19:09:40 UTC] PHP Warning:  rename(uploads/temp/d023b30adb65acf558334fa2817d7980.jpg,uploads/event/1512587380.6924.77_d023b30adb65acf558334fa2817d7980.jpg): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[06-Dec-2017 19:09:40 UTC] PHP Warning:  rename(uploads/temp/d023b30adb65acf558334fa2817d7980.jpg,uploads/event/1512587380.7656.77_d023b30adb65acf558334fa2817d7980.jpg): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[06-Dec-2017 19:09:40 UTC] PHP Warning:  rename(uploads/temp/d023b30adb65acf558334fa2817d7980.jpg,uploads/event/1512587380.7734.77_d023b30adb65acf558334fa2817d7980.jpg): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[06-Dec-2017 19:09:40 UTC] PHP Warning:  rename(uploads/temp/d023b30adb65acf558334fa2817d7980.jpg,uploads/event/1512587380.7812.77_d023b30adb65acf558334fa2817d7980.jpg): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[06-Dec-2017 19:09:40 UTC] PHP Warning:  rename(uploads/temp/d023b30adb65acf558334fa2817d7980.jpg,uploads/event/1512587380.7888.77_d023b30adb65acf558334fa2817d7980.jpg): No such file or directory in /home/mylifelegacy/public_html/models/timeline.php on line 121
+[05-Jan-2018 17:40:16 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[05-Jan-2018 17:41:23 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[12-Jan-2018 18:01:32 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[12-Jan-2018 18:01:32 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 17
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/mylifelegacy/public_html/models/core/resize.php on line 18
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 136
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  Division by zero in /home/mylifelegacy/public_html/models/core/resize.php on line 137
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/mylifelegacy/public_html/models/core/resize.php on line 34
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 35
+[13-Jan-2018 15:00:58 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/mylifelegacy/public_html/models/core/resize.php on line 150
+[13-Jan-2018 19:05:00 UTC] PHP Notice:  Use of undefined constant ADMIN_EMAIL - assumed 'ADMIN_EMAIL' in /home/mylifelegacy/public_html/models/core/general.php on line 180
+[13-Jan-2018 19:06:40 UTC] PHP Notice:  Undefined property: General::$hasAccess in /home/mylifelegacy/public_html/models/core/controller.php on line 66

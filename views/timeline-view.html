@@ -1,0 +1,45 @@
+<link rel="stylesheet" href="https://tour.tourmyapp.com/static/widgets/widgets.css" type="text/css">
+
+<div class="app-page">
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="span12">
+
+				<h1 class="text-center">Timeline</h1>
+
+				<ul class="timeline-menu">
+					<!-- BEGIN DYNAMIC BLOCK: item_menu -->
+					<li data-id="{ITEM_ID}" data-count="{ITEM_COUNT}" data-protected="{ITEM_PASS}">{ITEM_NAME}<span>{ITEM_COUNT}</span></li>
+					<!-- END DYNAMIC BLOCK: item_menu -->
+				</ul>
+				
+				<div class="timeline-control">
+					<button class="btn btn-info btn-filter" title="Filter events"><span class="ico ico-list"></span></button>
+
+					<ul class="timeline-categories" data-default="{DEFAULT_ID}">
+						<!-- BEGIN DYNAMIC BLOCK: item -->
+						<li data-id="{ITEM_ID}" data-count="{ITEM_COUNT}" data-protected="{ITEM_PASS}">{ITEM_NAME}<span>{ITEM_COUNT}</span></li>
+						<!-- END DYNAMIC BLOCK: item -->
+					</ul>
+				</div>
+
+				<section id="cd-timeline" class="cd-container"></section>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="modal hide protected">
+	<div class="modal-body text-center">
+		<h2 class="text-center">Access lock box</h2>
+		<p class="text-center"><input type="password" name="password" placeholder="Lock box password" /></p>
+	</div>
+	<div class="modal-footer text-center">
+		<button class="btn btn-success btn-invite"><span class="ico ico-check"></span>Enter</button>
+	</div>
+</div>
+
+<script>
+	var profileId = "{ID}";
+</script>

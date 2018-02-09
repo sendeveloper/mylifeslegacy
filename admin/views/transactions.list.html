@@ -1,0 +1,45 @@
+<div class="box w100">
+	<h2>{PAGE_TITLE}</h2>
+	<h4>Overview of transactions</h4>
+	
+	<div class="toolbar clearfix">
+		<div class="pull-left">
+		</div>
+		<div class="pull-right">
+			<input type="text" name="filter-term" placeholder="Search or filter list items" value="{FILTER}" />
+		</div>
+	</div>
+	
+	<div class="table-holder">
+		<table>
+			<thead>
+				<tr>
+					<!--<th><input type="checkbox" class="master"></th>-->
+					<th><span class="ico ico-unfold-more" data-sort="transaction_id" data-order="{ORDER}"></span>ID</th>
+					<th><span class="ico ico-unfold-more" data-sort="date" data-order="{ORDER}"></span>Date</th>
+					<th><span class="ico ico-unfold-more" data-sort="name" data-order="{ORDER}"></span>Name</th>
+					<th><span class="ico ico-unfold-more" data-sort="amount" data-order="{ORDER}"></span>Amount</th>
+					<th><span class="ico ico-unfold-more" data-sort="status" data-order="{ORDER}"></span>Status</th>
+				</tr>
+			</thead>
+			<tbody>
+				<!-- BEGIN DYNAMIC BLOCK: item -->
+				<tr>
+					<!--<td><input type="checkbox" class="slave" data-id="{ID}"></td>-->
+					<td>{ID}</td>
+					<td>{DATE}</td>
+					<td>{NAME}</td>
+					<td>{AMOUNT}</td>
+					<td>{STATUS}</td>
+				</tr>
+				<!-- END DYNAMIC BLOCK: item -->
+				{EMPTY}
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="6">{PAGINATION}</td>
+				</tr>
+			</tfoot>
+		</table>
+	</div>
+</div>

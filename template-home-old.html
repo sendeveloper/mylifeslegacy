@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="keywords" content="{META_KEYWORDS}" />
+        <meta name="description" content="{META_DESCRIPTION}" />
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		
+		<meta property="og:url" content="{META_OG_URL}" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="{META_OG_TITLE}" />
+		<meta property="og:description" content="{META_OG_DESCRIPTION}" />
+		<meta property="og:image" content="{META_OG_IMAGE}" />
+		
+        <title>{META_TITLE}</title>
+        <base href="{SITE_URL}">
+        <link rel="icon" type="image/png" href="assets/img/favicon.png?v={RANDOM}">
+		<link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic">
+		<link rel="stylesheet" media="screen" href="assets/css/bootstrap.css">
+		<link rel="stylesheet" media="screen" href="assets/css/bootstrap-responsive.min.css">
+		<link rel="stylesheet" media="screen" href="assets/css/general.css">
+		<link rel="stylesheet" media="screen and (max-width: 980px)" href="assets/css/mobile.css" />
+        <link rel="stylesheet" media="screen" href="assets/css/font-style.css">
+
+        <link rel="stylesheet" href="https://tour.tourmyapp.com/static/widgets/widgets.css" type="text/css">
+	</head>
+    <body>
+		<div class="hero">
+			<div class="navbar">
+				<div class="navbar-inner">
+					<a class="btn-mobile" data-toggle="collapse" data-target=".nav-collapse"><span class="ico ico-menu"></span></a>
+					<a class="brand" href="home"><img src="assets/img/logo.png" /></a>
+					<div class="nav-collapse collapse">{MAIN_MENU}</div>
+				</div>
+			</div>
+			<div class="container-fluid">
+				<div class="row-fluid home-fluid">
+					<div class="span6 main_title">
+						<h1>MY LIFE'S LEGACY</h1>
+						<h2>Where every life is worth remembering</h2>
+						<div class="input-append">
+							<input type="text" name="search-home" placeholder="Search people" />
+							<button class="btn btn-success"><span class="ico ico-search"></span></button>
+						</div>
+					</div>
+					<div class="span6 video_container">
+						<!--<video src="assets/img/video.mp4" width="100%" loop controls></video>-->
+						<iframe width="60%" height="240" src="https://www.youtube.com/embed/SB0Q2N-_X4o?rel=0&showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="hiw">
+			<div class="container-fluid">
+				<h1>How it works</h1>
+				<div class="row-fluid">
+					<div class="span6">
+						<img src="assets/img/ico-family-tree.png" />
+						<p>Easily create your online family tree</p>
+					</div>
+					<div class="span6">
+						<img src="assets/img/ico-timeline.png" />
+						<p>Set up your timeline with photos, videos and stories</p>
+					</div>
+				</div>
+				<p class="text-center"><a href="sign-up" class="btn btn-success btn-large">START NOW</a></p>
+			</div>
+		</div>		
+		
+		<div class="join">
+			<div class="container-fluid">
+				<h1>Join my life's legacy</h1>
+				<div class="row-fluid">
+					<div class="rows">
+						<p>At my life's legacy we provide a portal to your life for future generations. This a place where you can leave your own personal history, opinions, and views, that no one can change or delete, ever. Some of you may think that this site is for the elderly or the sick, but that couldn't be further from the truth. It is for every man, woman, and child because no one knows when your end will come.</p>
+						<p>It is said that we never die as long as someone remembers us. With My life's legacy, you will always be remembered, your way, always, and forever. </p>
+						<p class="text-center"><a href="sign-up" class="btn btn-success btn-large">JOIN US</a></p>
+					</div>
+				</div>
+			</div>
+		</div>		
+		
+		<div id="footer">
+			<div class="container-fluid">
+				<div class="row-fluid">
+					<div class="span3">
+						<ul>
+							<li><a href="about">About</a></li>
+							<li><a href="testimonials">Testimonials</a></li>
+							<li><a href="request">Request</a></li>
+							<li><a href="press">Press</a></li>
+							<li><a href="terms-and-conditions">Terms and conditions</a></li>
+							<li><a href="privacy-policy">Privacy policy</a></li>
+							<li><a href="contact">Contact us</a></li>
+						</ul>
+					</div>
+					<div class="span6 text-center">
+						<p><a href="home"><img src="assets/img/logo.png" /> My Life's Legacy</a></p>
+					</div>
+					<div class="span3 social text-right">
+						<a href="#"><span class="ico ico-facebook3"></span></a>
+						<a href="#"><span class="ico ico-twitter3"></span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="modal hide access signin">
+			<div class="modal-body text-center">
+				<!--<button class="btn btn-social btn-facebook"><span class="ico ico-facebook"></span>Sign in with Facebook</button>-->
+				<!--<button class="btn btn-social btn-google" id="btn-google"><span class="ico ico-google-plus"></span>Sign in with Google</button>-->
+				<!--<p class="text-center">or</p>-->
+				<form action="" method="post">
+					<input type="text" name="username" placeholder="Username" />
+					<input type="password" name="password" placeholder="Password" />
+					<p><a href="forgot">Forgot password?</a></p>
+					<button class="btn btn-success">Sign in</button>
+				</form>
+				<div class="divider"></div>
+				<p>Don't have an account? <a href="sign-up">Sign up</a></p>
+			</div>
+		</div>
+
+		<div class="modal hide access signup">
+			<div class="modal-header clearfix">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+			</div>
+			<div class="modal-body text-center">
+				<!--<button class="btn btn-social btn-facebook"><span class="ico ico-facebook"></span>Sign up with Facebook</button>-->
+				<!--<button class="btn btn-social btn-google" id="btn-google2"><span class="ico ico-google-plus"></span>Sign up with Google</button>-->
+				<!--<p class="text-center">or</p>-->
+				<form action="" method="post">
+					<input type="text" name="fname" placeholder="First name" />
+					<!-- <input type="text" name="mname" placeholder="Middle name" /> -->
+					<input type="text" name="lname" placeholder="Last name or maiden name for females" />
+					<!-- <input type="text" name="father" placeholder="Father's first and last name" />
+					<input type="text" name="maiden" placeholder="Mother's maiden name" /> -->
+					<div style="width: 100%; height: 40px;">
+						<label class="col-sm-6"><input type="checkbox" name="have_code" />I have a promocode</label>
+						<input type="text" name="promocode" placeholder="Input promocode"  class="col-sm-6" disabled="disabled" />
+						<div style="clear: both"></div>
+					</div>
+					<div class="divider" style="margin-bottom: 20px;"></div>
+					<input type="text" name="username" placeholder="Create a username" />
+					<input type="text" name="email" placeholder="Email address" />
+					<input type="password" name="password" placeholder="Choose a password" />
+					<p class="terms"><label><input type="checkbox" name="terms" />I agree with <a href="terms-and-conditions" target="_blank">terms and conditions</a></label></p>
+					<p><button class="btn btn-success">Continue<span class="ico ico-keyboard-arrow-right"></span></button></p>
+				</form>
+				<div class="divider"></div>
+				<p>Already a member? <a href="sign-in">Sign in</a></p>
+			</div>
+		</div>
+
+		<div class="modal hide access existing" data-backdrop="static">
+			<div class="modal-body"></div>
+		</div>
+
+		<div class="modal hide access forgot">
+			<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button><h3>Forgot your password?</h3></div>
+			<div class="modal-body text-center">
+				<p>Enter your email address associated with your account and we will send you a new password. Once you log in you can update your password.</p>
+				<p><input type="text" name="pass-email" placeholder="Email" /></p>
+				<button class="btn btn-success">Reset password</button>
+			</div>
+		</div>
+		
+        <script src="assets/js/jquery.min.js"></script>
+        <script type="text/javascript" src="https://tour.tourmyapp.com/widgets/widget/595161bebc1fbe6e3e003089/"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/jquery.validate.min.js"></script>
+		<script>var global = {GLOBAL}</script>
+        <script src="assets/js/general.js"></script>
+        <link rel="stylesheet" href="https://d345spfe4d65od.cloudfront.net/static/tourmyapp/v1/tourmyapp.css" type="text/css" />
+<script type="text/javascript" src="https://d345spfe4d65od.cloudfront.net/static/tourmyapp/v1/tourmyapp.js"></script>
+<script type="text/javascript">
+var tour;
+jQuery(document).ready(function() {
+tour = new TourMyApp("7a1eeb68c9b0b354b07f19a9e3bcd46e"); // REPLACE WITH YOUR ACCOUNT TOKEN
+tour.start();
+});
+</script>
+        <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+		{PAGE_SCRIPT}
+		{DEBUG}
+
+    </body>
+</html>

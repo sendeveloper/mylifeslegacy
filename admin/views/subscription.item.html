@@ -1,0 +1,31 @@
+<div class="box w100">
+	<h2>{PAGE_TITLE}</h2>
+	<h4>{PAGE_HINT}</h4>
+	
+	<form class="must-process" onsubmit="return false">
+		<input type="hidden" class="span12" name="id" value="{ID}" />
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Amount ($)</label></div>
+			<div class="span8"><input type="text" class="span12" name="amount" value="{AMOUNT}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Trial Days</label></div>
+			<div class="span8"><input type="text" class="span12" name="trial_days" placeholder="Email subject line" value="{TRIAL_DAYS}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Title</label></div>
+			<div class="span8"><input type="text" class="span12" name="title" placeholder="Email subject line" value="{TITLE}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span12"><label>Description</label></div>
+		</div>
+		<div class="row-fluid row-list">
+			<div class="span12"><textarea class="editor" name="description" placeholder="Web Page Description">{DESCRIPTION}</textarea></div>
+		</div>
+
+		<p class="save"><button class="btn btn-success btn-submit"><span class="ico ico-check"></span>Save</button></p>
+	</form>
+</div>

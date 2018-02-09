@@ -1,0 +1,79 @@
+<div class="box w100">
+	<h2>{PAGE_TITLE}</h2>
+	<h4>{PAGE_HINT}</h4>
+	
+	<div class="toolbar clearfix">
+		<button class="btn btn-ico btn-back-to-list"><span class="ico ico-arrow-left2"></span></button>
+		{EDIT_S}
+		<a class="btn btn-ico" target="_blank" href="{URL_FT}">View family tree</a>
+		<a class="btn btn-ico" target="_blank" href="{URL_TL}">View timeline</a>
+		{EDIT_E}
+	</div>
+	
+	<form class="must-process" onsubmit="return false">
+
+		<div class="row-fluid row-list">
+			<div class="span12">
+				<label>Profile image</label>
+				<p><img src="{IMAGE}" style="max-height: 128px" /></p>
+				<div id="file-uploader"></div>
+				<input type="hidden" name="image" value="" />
+			</div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>First name</label></div>
+			<div class="span8"><input type="text" data-required="true" class="span12" name="fname" placeholder="First name" value="{FNAME}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Last name</label></div>
+			<div class="span8"><input type="text" data-required="true" class="span12" name="lname" placeholder="Last name" value="{LNAME}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Username</label></div>
+			<div class="span8"><input type="text" data-required="true" class="span12" name="username" placeholder="Username" value="{USERNAME}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Email address</label></div>
+			<div class="span8"><input type="text" data-required="true" class="span12" name="email" placeholder="Email address" value="{EMAIL}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Password</label></div>
+			<div class="span8"><input type="password" data-required="true" class="span12" name="password" placeholder="Password" value="{PASSWORD}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Status</label></div>
+			<div class="span8">
+				<label><input type="radio" name="active" value="1" {ACTIVE} /> active</label>
+				<label><input type="radio" name="active" value="0" {INACTIVE} /> inactive</label>
+			</div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Gender</label></div>
+			<div class="span8"><select name="gender" data-required="true">{GENDERS}</select></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>City</label></div>
+			<div class="span8"><input type="text" class="span12" data-required="true" name="city" placeholder="City / Town" value="{CITY}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Date of birth</label></div>
+			<div class="span8"><input type="text" class="span12 dp" data-required="true" name="dob" placeholder="Date of birth" value="{DOB}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Place of birth</label></div>
+			<div class="span8"><input type="text" class="span12" name="pob" data-required="true" placeholder="Place of birth" value="{POB}" /></div>
+		</div>
+
+		<p class="save"><button class="btn btn-success btn-submit"><span class="ico ico-check"></span>Save</button></p>
+	</form>
+</div>

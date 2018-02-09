@@ -1,0 +1,40 @@
+<div class="box w100">
+	<h2>{PAGE_TITLE}</h2>
+	<h4>{PAGE_HINT}</h4>
+	
+	<div class="toolbar clearfix">
+		<button class="btn btn-ico btn-back-to-list"><span class="ico ico-arrow-left2"></span></button>
+	</div>
+	
+	<form class="must-process" onsubmit="return false">
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Code</label></div>
+			<div class="span8"><input type="text" class="span12" name="name" value="{CODE}" disabled="disabled" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Subject</label></div>
+			<div class="span8"><input type="text" class="span12" name="subject" placeholder="Email subject line" value="{SUBJECT}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Address (From field)</label></div>
+			<div class="span8"><input type="text" class="span12" name="from_address" placeholder="Address (from field)" value="{FROM_ADDRESS}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span4"><label>Name (From field)</label></div>
+			<div class="span8"><input type="text" class="span12" name="from_name" placeholder="Name (from field)" value="{FROM_NAME}" /></div>
+		</div>
+
+		<div class="row-fluid row-list">
+			<div class="span12"><label>Content</label></div>
+		</div>
+		<div class="row-fluid row-list">
+			<div class="span12"><textarea class="editor" name="content" placeholder="Web page content">{CONTENT}</textarea></div>
+		</div>
+
+		<p class="save"><button class="btn btn-success btn-submit"><span class="ico ico-check"></span>Save</button></p>
+	</form>
+</div>

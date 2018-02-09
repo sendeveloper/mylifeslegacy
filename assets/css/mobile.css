@@ -1,0 +1,180 @@
+.timeline-menu {
+	display: none;
+}
+.span12{
+	width: calc(100% - 40px);
+}
+.vp .span6 {
+	text-align: center;
+}
+.vp .stats {
+	margin-top: 40px;
+}
+	.vp .stats .row-fluid {
+		margin-bottom: 10px;
+	}
+
+.search-bar input[type="text"] {
+	width: calc(100% - 136px);
+}
+
+.svg-container .view-control {
+	top: 0px;
+	left: 0px;
+}
+.svg-container .view-control .zoom-control {
+	padding: 10px 10px;
+	width: 24px;
+}
+	.svg-container .view-control .zoom-control .ico {
+		margin-bottom: 3px;
+		display: inline-block;
+		font-size: 24px;
+	}
+	
+.svg-container .slider.slider-vertical {
+	margin: 0px 20px;
+	height: 180px;
+}
+
+.svg-container .tree-search-holder {
+	width: 200px;
+}
+	.svg-container .tree-search-holder ul {
+		width: 100%;
+	}
+
+.svg-container .share .btn {
+	padding: 5px 10px;
+}
+
+.account .span6 input[type="text"], .account .span6 input[type="password"] {
+	width: calc(100% - 16px);
+}
+.account .span6 select{
+	width: calc(100%);
+}
+
+.request .span6 input[type="text"], .request .span6 input[type="password"] {
+	width: calc(100% - 16px);
+}
+.request .span6 input[name="username"]{
+	width: calc(100% - 32px) !important;
+}
+.request .span6 select{
+	width: calc(100%);
+}
+
+.contact .span6 input[type="text"], .contact .span6 input[type="password"] {
+	width: calc(100% - 16px);
+}
+
+.modal, .modal.access {
+	/*top: 10px;*/
+	/*bottom: 10px;*/
+	/*margin: 0px;*/
+	/*width: auto;*/
+	/*position: absolute;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	top: 50%;*/
+}
+.modal .modal-body, .modal.access .modal-body {
+	min-height: calc(100% - 82px);
+	max-height: calc(100% - 82px);
+	margin: 0px; max-height: calc(100% - 70px);
+}
+.modal.access .modal-body {
+	min-height: calc(100% - 40px);
+	max-height: calc(100% - 40px);
+}
+#notify-modal.modal {
+	bottom: auto;
+}
+#notify-modal.modal .modal-body {
+	min-height: 0px;
+}
+
+#footer ul {
+	text-align: center;
+}
+	#footer ul li {
+		display: inline-block;
+	}
+#footer .span3{
+	width: 100%;
+	float: none;
+}
+#footer .span6{
+	width: 100%;
+	float: none;
+	margin-left: 0px;
+}
+#footer .span6 p {
+	margin: 30px 0px;
+}
+#footer .social {
+	text-align: center;
+}
+
+.container-fluid { padding: 0px 10px; }
+
+.hero {
+	/*background-image: none;*/
+	/*background-color: #313131;*/
+	min-height: 300px;
+}
+.hero h1 {
+	text-align: center;
+	margin-top: 60px;
+	font-size: 32px;
+	line-height: 32px;
+}
+.hero h2 {
+	text-align: center;
+	font-size: 20px;
+	line-height: 20px;
+}
+
+.hero input[type="text"] {
+	width: calc(100% - 122px);
+	min-width: 30px;
+}
+
+.navbar { padding: 0px; }
+.navbar .btn-mobile { 
+	float: right;
+	display: block;
+	color: #ffffff;
+	font-size: 24px;
+	margin: 6px 20px 7px 0px;
+}
+.navbar .btn-mobile.dark {
+	color: #313131;
+}
+.navbar .brand {
+	margin: 0px 0px 0px 10px;
+}
+.navbar .nav {
+	height: auto;
+	width: 100%;
+}
+	.navbar .nav > li {
+		width: 100%;
+		margin: 0px;
+	}
+	.navbar .nav > li > a {
+		padding: 10px 15px;
+		text-align: center
+	}
+.navbar .mobile-user-menu {
+	display: block;
+	margin-top: 20px;
+}
+	.navbar .mobile-user-menu li a .ico {
+		margin-right: 10px;
+	}
+.navbar .user-menu {
+	display: none;
+}

@@ -1,0 +1,91 @@
+form#checkout_form{
+	text-align: center;
+	margin: 0 auto;
+}
+form#checkout_form .form_each{
+	width: 504px;
+	display: block;
+	margin: 0 auto;
+}
+form#checkout_form .form_each .checkout {
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+form#checkout_form .form_each .inputs{
+	width: 50%;
+	float: left;
+}
+form#checkout_form .inputs select, 
+form#checkout_form .inputs input{
+	float: right;
+}
+
+form#checkout_form table{
+	margin: 0 auto;
+	width: 504px;
+}
+form#checkout_form ul{
+	margin: 0 auto;
+	width: 504px;
+}
+form#checkout_form .dudl{
+	float: left;
+	padding-top: 10px;
+}
+form#checkout_form .dudr{
+	float: right;
+	padding-right: 4px;
+}
+.textpayment {
+    font-size: 20px;
+    font-weight: bold;
+    height: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+form#checkout_form ul li{
+	list-style: none;
+    text-align: left;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+form#checkout_form ul li:last-child{
+	text-align: center;
+}
+form#checkout_form #chkPolicy{
+	position: relative;
+	top: -1px;
+}
+form#checkout_form .btn-checkout{
+	width: 100px;
+}
+@media only screen and (max-width: 768px) {
+    form#checkout_form .form_each{
+		width: 90% !important;
+	}
+	form#checkout_form .form_each .checkout, 
+	form#checkout_form .form_each .inputs{
+		width: 100% !important;
+	}
+	form#checkout_form .form_each .inputs input{
+		width: calc(100% - 14px);
+	}
+	form#checkout_form .form_each .inputs select{
+		width: 100%;
+	}
+	form#checkout_form ul {
+	    width: 90% !important;
+	}
+	form#checkout_form .dudr{
+		width: 100%; 
+		float: left !important;
+		padding-right: 0px !important;
+	}
+	form#checkout_form .dudr input{
+		width: calc(100% - 12px);
+	}
+	form#checkout_form .dudr select{
+		width: 100% !important;
+	}
+}

@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteRule ^sign-in$ views/login.html [NC,L,QSA]
+RewriteRule ^sign-out$ index.php?act=auth-logout [NC,L,QSA]
+ErrorDocument 404 404
