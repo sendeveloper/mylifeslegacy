@@ -3,6 +3,7 @@
  * ©SWD
  */
 
+
 var uploader = new qq.FileUploader({
 	element: document.getElementById('file-uploader'),
 	action: 'index_ajax.php?act=general-uploadprofile',
