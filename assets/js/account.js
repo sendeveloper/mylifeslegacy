@@ -2,6 +2,7 @@
  * Account module
  * ©SWD
  */
+ 
 
 var uploader = new qq.FileUploader({
 	element: document.getElementById('file-uploader'),
